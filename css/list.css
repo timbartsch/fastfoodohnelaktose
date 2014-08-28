@@ -33,4 +33,5 @@
 .row > .info {
   margin-top: 8px;
   opacity: 0.6;
+  display: none;
 }
